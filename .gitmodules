@@ -1,0 +1,4 @@
+[submodule "qt1"]
+	path = qt1
+	url = https://github.com/heliocastro/qt1
+	branch = master
